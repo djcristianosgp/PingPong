@@ -1,0 +1,17 @@
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\bin\Debug\net8.0-windows\PingPong.exe
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\bin\Debug\net8.0-windows\PingPong.deps.json
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\bin\Debug\net8.0-windows\PingPong.runtimeconfig.json
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\bin\Debug\net8.0-windows\PingPong.dll
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\bin\Debug\net8.0-windows\PingPong.pdb
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.Form1.resources
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.csproj.GenerateResource.cache
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.AssemblyInfoInputs.cache
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.AssemblyInfo.cs
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.csproj.CoreCompileInputs.cache
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.sourcelink.json
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.dll
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\refint\PingPong.dll
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.pdb
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\PingPong.genruntimeconfig.cache
+C:\RGSystemDev\Fontes\desktop\PingPong\PingPong\obj\Debug\net8.0-windows\ref\PingPong.dll

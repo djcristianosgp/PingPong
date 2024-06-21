@@ -1,3 +1,6 @@
+using BibliotecaUteis.Classes.Uteis;
+using PingPongClient.View;
+
 namespace PingPongClient
 {
 	internal static class Program
@@ -10,8 +13,9 @@ namespace PingPongClient
 		{
 			// To customize application configuration such as set high DPI settings or default font,
 			// see https://aka.ms/applicationconfiguration.
+			 new DadosUteis();
 			ApplicationConfiguration.Initialize();
-			Application.Run(new Form1());
+			Application.Run(new FrmChat());
 		}
 	}
 }
